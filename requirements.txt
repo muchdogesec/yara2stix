@@ -4,7 +4,7 @@ certifi==2024.7.4; python_version >= '3.6'
 charset-normalizer==3.3.2; python_full_version >= '3.7.0'
 dateparser==1.2.0
 gitdb==4.0.11; python_version >= '3.7'
-gitpython==3.1.43; python_version >= '3.7'
+gitpython==3.1.47; python_version >= '3.7'
 idna==3.7; python_version >= '3.5'
 ply==3.11
 plyara==2.1.1
